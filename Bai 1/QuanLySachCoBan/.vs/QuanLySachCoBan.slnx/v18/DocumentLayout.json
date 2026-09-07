@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Code\\Bai 1\\QuanLySachCoBan\\",
+  "WorkspaceRootPath": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 1\\QuanLySachCoBan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C22CB67-8E1B-D7C8-6014-DCD30334A9A8}|QuanLySachCoBan\\QuanLySachCoBan.csproj|e:\\code\\bai 1\\quanlysachcoban\\quanlysachcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C22CB67-8E1B-D7C8-6014-DCD30334A9A8}|QuanLySachCoBan\\QuanLySachCoBan.csproj|e:\\code\\nguyentienhung_6551071039_btlt2\\bai 1\\quanlysachcoban\\quanlysachcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C22CB67-8E1B-D7C8-6014-DCD30334A9A8}|QuanLySachCoBan\\QuanLySachCoBan.csproj|solutionrelative:quanlysachcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Code\\Bai 1\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
+              "DocumentMoniker": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 1\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
               "RelativeDocumentMoniker": "QuanLySachCoBan\\Program.cs",
-              "ToolTip": "E:\\Code\\Bai 1\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
+              "ToolTip": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 1\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
               "RelativeToolTip": "QuanLySachCoBan\\Program.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T00:35:01.403Z",
               "EditorCaption": ""

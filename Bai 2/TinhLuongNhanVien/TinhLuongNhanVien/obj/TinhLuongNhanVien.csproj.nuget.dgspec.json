@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj": {}
+    "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 2\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj": {}
   },
   "projects": {
-    "E:\\Code\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj": {
+    "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 2\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj",
+        "projectUniqueName": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 2\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj",
         "projectName": "TinhLuongNhanVien",
-        "projectPath": "E:\\Code\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj",
+        "projectPath": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 2\\TinhLuongNhanVien\\TinhLuongNhanVien\\TinhLuongNhanVien.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\TinhLuongNhanVien\\TinhLuongNhanVien\\obj\\",
+        "outputPath": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 2\\TinhLuongNhanVien\\TinhLuongNhanVien\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

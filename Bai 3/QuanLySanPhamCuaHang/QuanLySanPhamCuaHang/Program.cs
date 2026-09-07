@@ -220,7 +220,7 @@ class Program
 
         Console.WriteLine("===== TONG GIA TRI KHO =====");
         Console.WriteLine(tongGiaTriKho.ToString("N0") + " VNĐ");
-
+        Console.WriteLine("MSSV: 6551071039");
         Console.ReadLine();
     }
 }

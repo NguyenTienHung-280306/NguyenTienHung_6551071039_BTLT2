@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
+      "projectUniqueName": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 1\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
       "projectName": "QuanLySachCoBan",
-      "projectPath": "E:\\Code\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
+      "projectPath": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 1\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\QuanLySachCoBan\\QuanLySachCoBan\\obj\\",
+      "outputPath": "E:\\Code\\NguyenTienHung_6551071039_BTLT2\\Bai 1\\QuanLySachCoBan\\QuanLySachCoBan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,3 +12,18 @@ E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\refint\QuanLySachCoBan
 E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.pdb
 E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.genruntimeconfig.cache
 E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\ref\QuanLySachCoBan.dll
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.exe
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.deps.json
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.runtimeconfig.json
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.dll
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.pdb
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfoInputs.cache
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfo.cs
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.csproj.CoreCompileInputs.cache
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.sourcelink.json
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.dll
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\refint\QuanLySachCoBan.dll
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.pdb
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.genruntimeconfig.cache
+E:\Code\NguyenTienHung_6551071039_BTLT2\Bai 1\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\ref\QuanLySachCoBan.dll
